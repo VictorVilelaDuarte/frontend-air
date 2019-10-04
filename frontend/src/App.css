@@ -83,6 +83,11 @@ button {
   cursor: pointer;
 }
 
+.content form span {
+  font-weight: normal;
+  color: #999;
+  font-size: 12px;
+}
 .content button.btn:hover {
   background: #e14f50;
 }
